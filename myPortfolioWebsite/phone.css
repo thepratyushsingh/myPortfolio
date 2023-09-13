@@ -1,0 +1,13 @@
+@media screen and (max-width: 1034px) {
+  .secondsection {
+    margin-right: -91px;
+  }
+  .fourthsection {
+    margin-right: -91px;
+  }
+  .footer {
+    margin-right: -91px;
+  }
+}
+
+/* at 1024 px we have to apply margin-right:-91px to second, fourth and footer section */
